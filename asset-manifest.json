@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Logitech/static/css/main.a1300a32.css",
+    "main.js": "/Logitech/static/js/main.25758e82.js",
+    "static/js/453.bdb1a167.chunk.js": "/Logitech/static/js/453.bdb1a167.chunk.js",
+    "static/media/back1.png": "/Logitech/static/media/back1.a694145fb040bdb7c35c.png",
+    "index.html": "/Logitech/index.html",
+    "main.a1300a32.css.map": "/Logitech/static/css/main.a1300a32.css.map",
+    "main.25758e82.js.map": "/Logitech/static/js/main.25758e82.js.map",
+    "453.bdb1a167.chunk.js.map": "/Logitech/static/js/453.bdb1a167.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1300a32.css",
+    "static/js/main.25758e82.js"
+  ]
+}
